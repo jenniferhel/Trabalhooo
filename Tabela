@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rack Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        table {
+            width: 60%;
+            margin: auto;
+            border-collapse: collapse;
+            background: white;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #b3e0ff;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>Rack Management</h2>
+
+    <table>
+        <tr>
+            <th>Switch Port</th>
+            <th>Patch Panel Port</th>
+        </tr>
+        <tr>
+            <td>S1</td>
+            <td>Recepção - Computador 1</td>
+        </tr>
+        <tr>
+            <td>S2</td>
+            <td>Recepção - Computador 2</td>
+        </tr>
+        <tr>
+            <td>S3</td>
+            <td>Administração - Computador 3</td>
+        </tr>
+        <tr>
+            <td>S4</td>
+            <td>Administração - Computador 4</td>
+        </tr>
+        <tr>
+            <td>S5</td>
+            <td>Sala Clínica 1 - Computador 5</td>
+        </tr>
+        <tr>
+            <td>S6</td>
+            <td>Sala Clínica 2 - Computador 6</td>
+        </tr>
+        <tr>
+            <td>S7</td>
+            <td>Sala Clínica 3 - Computador 7</td>
+        </tr>
+        <tr>
+            <td>S8</td>
+            <td>Sala Clínica 4 - Computador 8</td>
+        </tr>
+        <tr>
+            <td>S9</td>
+            <td>Sala Clínica 5 - Computador 9</td>
+        </tr>
+        <tr>
+            <td>S10</td>
+            <td>Sala Clínica 6 - Computador 10</td>
+        </tr>
+        <tr>
+            <td>S11</td>
+            <td>(Vazio ou reserva)</td>
+        </tr>
+        <tr>
+            <td>S12</td>
+            <td>(Vazio ou reserva)</td>
+        </tr>
+    </table>
+
+</body>
+</html>
