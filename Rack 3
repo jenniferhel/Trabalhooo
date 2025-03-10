@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rack Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+        .rack {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 5px;
+        }
+        .box {
+            border: 2px solid black;
+            padding: 15px;
+            background-color: #f0f0f0;
+            text-align: center;
+            font-weight: bold;
+        }
+        .label {
+            background-color: #ccc;
+        }
+        .connection {
+            margin-top: 10px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Rack Management</h1>
+
+    <div class="container">
+
+        <!-- Representação do Switch -->
+        <div class="rack">
+            <div class="box label">S1</div>
+            <div class="box label">S2</div>
+            <div class="box label">S3</div>
+            <div class="box label">S4</div>
+            <div class="box label">S5</div>
+            <div class="box label">S6</div>
+            <div class="box label">S7</div>
+            <div class="box label">S8</div>
+            <div class="box label">S9</div>
+            <div class="box label">S10</div>
+        </div>
+
+        <!-- Representação das Conexões -->
+        <div class="connection">
+            S1 → Recepção - Computador 1<br>
+            S2 → Recepção - Computador 2<br>
+            S3 → Administração - Computador 3<br>
+            S4 → Administração - Computador 4<br>
+            S5 → Sala Clínica 1 - Computador 5<br>
+            S6 → Sala Clínica 2 - Computador 6<br>
+            S7 → Sala Clínica 3 - Computador 7<br>
+            S8 → Sala Clínica 4 - Computador 8<br>
+            S9 → Sala Clínica 5 - Computador 9<br>
+            S10 → Sala Clínica 6 - Computador 10<br>
+        </div>
+
+    </div>
+
+</body>
+</html>
