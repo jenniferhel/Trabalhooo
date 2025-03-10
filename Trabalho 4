@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rack Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .actions a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Rack Management</h1>
+    <a href="#">Add Connection</a>
+
+    <table>
+        <tr>
+            <th>Switch Port</th>
+            <th>Patch Panel Port</th>
+            <th>Actions</th>
+        </tr>
+        <tr>
+            <td>Recepção</td>
+            <td>Computador 1</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Recepção</td>
+            <td>Computador 2</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Administração</td>
+            <td>Computador 3</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Administração</td>
+            <td>Computador 4</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Sala Clínica 1</td>
+            <td>Computador 5</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Sala Clínica 2</td>
+            <td>Computador 6</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Sala Clínica 3</td>
+            <td>Computador 7</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Sala Clínica 4</td>
+            <td>Computador 8</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Sala Clínica 5</td>
+            <td>Computador 9</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>Sala Clínica 6</td>
+            <td>Computador 10</td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>(Vazio ou reserva)</td>
+            <td></td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+        <tr>
+            <td>(Vazio ou reserva)</td>
+            <td></td>
+            <td class="actions"><a href="#">Edit</a> <a href="#">Delete</a></td>
+        </tr>
+    </table>
+
+</body>
+</html>
