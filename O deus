@@ -1,0 +1,127 @@
+<table border="1">
+    <tr>
+        <th>Switch Port</th>
+        <th>Patch Panel Port</th>
+        <th>Computadores</th>
+    </tr>
+    <tr>
+        <td>S1</td>
+        <td>P1</td>
+        <td>Recepção 1</td>
+    </tr>
+    <tr>
+        <td>S2</td>
+        <td>P2</td>
+        <td>Recepção 2</td>
+    </tr>
+    <tr>
+        <td>S3</td>
+        <td>P3</td>
+        <td>Administração 1</td>
+    </tr>
+    <tr>
+        <td>S4</td>
+        <td>P4</td>
+        <td>Administração 2</td>
+    </tr>
+    <tr>
+        <td>S5</td>
+        <td>P5</td>
+        <td>Clínica 1</td>
+    </tr>
+    <tr>
+        <td>S6</td>
+        <td>P6</td>
+        <td>Clínica 2</td>
+    </tr>
+    <tr>
+        <td>S7</td>
+        <td>P7</td>
+        <td>Clínica 3</td>
+    </tr>
+    <tr>
+        <td>S8</td>
+        <td>P8</td>
+        <td>Clínica 4</td>
+    </tr>
+    <tr>
+        <td>S9</td>
+        <td>P9</td>
+        <td>Clínica 5</td>
+    </tr>
+    <tr>
+        <td>S10</td>
+        <td>P10</td>
+        <td>Clínica 6</td>
+    </tr>
+    <tr>
+        <td>S11</td>
+        <td>P11</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S12</td>
+        <td>P12</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S13</td>
+        <td>P13</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S14</td>
+        <td>P14</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S15</td>
+        <td>P15</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S16</td>
+        <td>P16</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S17</td>
+        <td>P17</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S18</td>
+        <td>VAGO</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S19</td>
+        <td>VAGO</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S20</td>
+        <td>VAGO</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S21</td>
+        <td>VAGO</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S22</td>
+        <td>VAGO</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S23</td>
+        <td>VAGO</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>S24</td>
+        <td>VAGO</td>
+        <td>-</td>
+    </tr>
+</table>
