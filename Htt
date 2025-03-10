@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rack Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+            background-color: #d0e8f2; /* Cor de fundo azul claro */
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .port-pair {
+            display: flex;
+            justify-content: space-between;
+            width: 50%;
+            background-color: white;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid black;
+            border-radius: 5px;
+        }
+        .port {
+            font-weight: bold;
+        }
+        .switch-port {
+            color: blue;
+        }
+        .patch-panel-port {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Rack Management</h1>
+    <a href="#">Adicionar Conexão</a>
+
+    <div class="container">
+        <div class="port-pair">
+            <div class="port switch-port">S1</div>
+            <div class="port patch-panel-port">P1</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S2</div>
+            <div class="port patch-panel-port">P2</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S3</div>
+            <div class="port patch-panel-port">P3</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S4</div>
+            <div class="port patch-panel-port">P4</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S5</div>
+            <div class="port patch-panel-port">P5</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S6</div>
+            <div class="port patch-panel-port">P6</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S7</div>
+            <div class="port patch-panel-port">P7</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S8</div>
+            <div class="port patch-panel-port">P8</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S9</div>
+            <div class="port patch-panel-port">P9</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S10</div>
+            <div class="port patch-panel-port">P10</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S11</div>
+            <div class="port patch-panel-port">P11</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S12</div>
+            <div class="port patch-panel-port">P12</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S13</div>
+            <div class="port patch-panel-port">P13</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S14</div>
+            <div class="port patch-panel-port">P14</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S15</div>
+            <div class="port patch-panel-port">P15</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S16</div>
+            <div class="port patch-panel-port">P16</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S17</div>
+            <div class="port patch-panel-port">P17</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S18</div>
+            <div class="port patch-panel-port">VAGO</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S19</div>
+            <div class="port patch-panel-port">VAGO</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S20</div>
+            <div class="port patch-panel-port">VAGO</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S21</div>
+            <div class="port patch-panel-port">VAGO</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S22</div>
+            <div class="port patch-panel-port">VAGO</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S23</div>
+            <div class="port patch-panel-port">VAGO</div>
+        </div>
+        <div class="port-pair">
+            <div class="port switch-port">S24</div>
+            <div class="port patch-panel-port">VAGO</div>
+        </div>
+    </div>
+
+</body>
+</html>
