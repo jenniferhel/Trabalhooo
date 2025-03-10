@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rack Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+            background-color: #d0e8f2; /* Cor de fundo azul claro */
+        }
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: auto;
+            background-color: white; /* Mantém a tabela com fundo branco */
+        }
+        th, td {
+            border
