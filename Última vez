@@ -1,0 +1,88 @@
+<div class="port-pair">  
+    <div class="port switch-port">S1</div>  
+    <div class="port patch-panel-port">P1</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S2</div>  
+    <div class="port patch-panel-port">P2</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S3</div>  
+    <div class="port patch-panel-port">P3</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S4</div>  
+    <div class="port patch-panel-port">P4</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S5</div>  
+    <div class="port patch-panel-port">P5</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S6</div>  
+    <div class="port patch-panel-port">P6</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S7</div>  
+    <div class="port patch-panel-port">P7</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S8</div>  
+    <div class="port patch-panel-port">P8</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S9</div>  
+    <div class="port patch-panel-port">P9</div>  
+</div>
+
+<div class="port-pair">  
+    <div class="port switch-port">S10</div>  
+    <div class="port patch-panel-port">P10</div>  
+</div>
+
+<!-- Computadores -->
+<div class="computers-section">
+    <h3>Recepção</h3>
+    <div class="port-pair">  
+        <div class="port computer">Computador 1 (Recepção)</div>  
+    </div>
+    <div class="port-pair">  
+        <div class="port computer">Computador 2 (Recepção)</div>  
+    </div>
+
+    <h3>Administração</h3>
+    <div class="port-pair">  
+        <div class="port computer">Computador 3 (Administração)</div>  
+    </div>
+    <div class="port-pair">  
+        <div class="port computer">Computador 4 (Administração)</div>  
+    </div>
+
+    <h3>Salas Clínicas</h3>
+    <div class="port-pair">  
+        <div class="port computer">Computador 5 (Sala Clínica 1)</div>  
+    </div>
+    <div class="port-pair">  
+        <div class="port computer">Computador 6 (Sala Clínica 2)</div>  
+    </div>
+    <div class="port-pair">  
+        <div class="port computer">Computador 7 (Sala Clínica 3)</div>  
+    </div>
+    <div class="port-pair">  
+        <div class="port computer">Computador 8 (Sala Clínica 4)</div>  
+    </div>
+    <div class="port-pair">  
+        <div class="port computer">Computador 9 (Sala Clínica 5)</div>  
+    </div>
+    <div class="port-pair">  
+        <div class="port computer">Computador 10 (Sala Clínica 6)</div>  
+    </div>
+</div>
